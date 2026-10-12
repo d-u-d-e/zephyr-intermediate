@@ -1,0 +1,7 @@
+{
+
+"clangd.arguments": [
+"--compile-commands-dir=/home/marco_mariotto/projects/zephyr_course_iomico/zephyr-intermediate/twister-out/native_sim_native/host/zephyr-intermediate/tests/temp_alarm/homework.unit.temp_alarm"
+],
+    "C_Cpp.intelliSenseEngine": "disabled"
+}

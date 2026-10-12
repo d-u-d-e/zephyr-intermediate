@@ -6,4 +6,5 @@ build
 deps
 project_layout.txt
 .cache
-twister-out*
+/twister-out/*
+!/twister-out/coverage/
